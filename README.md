@@ -7,15 +7,19 @@
 - 🌱 Learning **diffusion models, reinforcement learning, and MLOps**  
 - 👯 Open to collaborating on **quant research, backtesting frameworks, and AI-driven tools**  
 - 💬 Ask me about **data pipelines, LLM finetuning, or backtesting strategies**  
-- 📫 Reach me at: **duongduc@grinnell.edu** | [LinkedIn](https://www.linkedin.com/in/duchduong)  
-- 📝 Portfolio & Projects: [GitHub](https://github.com/duongduc388222)  
-- ⚡ Fun fact: I love **variants of Sudoku, badminton, and soccer** — always looking for patterns both in puzzles and markets.
+- 📝 Portfolio & Blog: https://ducduong-portfolio.vercel.app/
+- ⚡ Fun fact: I love **variants Sudoku, badminton, and soccer**
+
+### 📫 Reach me at:
+- [LinkedIn](https://www.linkedin.com/in/duchduong)  
+- School Email: **duongduc@grinnell.edu**
+- Work Email: **dhd388222@gmail.com**  
 
 ---
 
 ### 🎯 Hobbies & Interests  
-- 🧩 Solving **variants of Sudoku** and logic games 
-- ⚽  Born to play **soccer** but peaked at 🏸 **badminton**
+- 🧩 [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic) is the best YouTube channel in the world.
+- ⚽ Born to play **soccer** but peaked at 🏸 **badminton**
 - 📖 Reading **AI/ML research papers**, **quant finance literature**, and **manga**
 
 ---
@@ -78,6 +82,16 @@
 
 ## 🚀 Featured Projects  
 
+### 🗺️ Spatial and Demographic Effects on Theft Distribution in Los Angeles. 
+[🔗 Sponsored by **American Statistical Association (ASA)** & **CAUSE**.](https://www.causeweb.org/usproc/usclap/2025/spring/winners) | Dec. 2025  
+
+Analyzed theft patterns across Los Angeles using the **2020 LAPD dataset** to understand how spatial and demographic factors affect theft distribution.  
+
+- Applied **nested logistic regression models** with predictors such as population size, density, victim age, sex, and race.  
+- Found **population density** to be the strongest negative predictor of theft, while demographic analysis showed older victims and women were slightly more likely to be targeted.  
+- Highlighted racial differences in exposure to theft vs. violent crimes.  
+- Work was recognized nationally, earning **1st Prize** in the USPROC Introductory Statistics Class Project competition.  
+
 ### 🎵 Predicting Tonal Languages  
 [🔗 GitHub Repository](https://github.com/duongduc388222/predict-tonal-languages-machine-learning) | Aug 2024 – May 2025  
 
@@ -89,17 +103,6 @@ A research project exploring whether machine learning models can distinguish ton
 - Built reproducible pipelines in **scikit-learn** and **PyTorch** for comparative metrics (precision, recall, F1).  
 - Proposed scalable data collection strategies for future interdisciplinary research in linguistics + machine learning.  
 
----
-
-### 🗺️ Spatial and Demographic Effects on Theft Distribution in Los Angeles. 
-[CAUSE Website](https://www.causeweb.org/usproc/usclap/2025/spring/winners) 
-
-Analyzed theft patterns across Los Angeles using the **2020 LAPD dataset** to understand how spatial and demographic factors affect theft distribution.  
-
-- Applied **nested logistic regression models** with predictors such as population size, density, victim age, sex, and race.  
-- Found **population density** to be the strongest negative predictor of theft, while demographic analysis showed older victims and women were slightly more likely to be targeted.  
-- Highlighted racial differences in exposure to theft vs. violent crimes.  
-- Work was recognized nationally, earning **1st Prize** in the USPROC Introductory Statistics Class Project competition.  
 
 
 
@@ -108,14 +111,16 @@ Analyzed theft patterns across Los Angeles using the **2020 LAPD dataset** to un
 ### 📜 Certifications & Awards  
 - 🏆 **1st Prize** – USPROC Introductory Statistics Class Project Competition (June 2025)  
   *Project: Spatial And Demographic Effects On Theft Distribution Across Los Angeles*  
-  Sponsored by **American Statistical Association (ASA)** & **CAUSE**.
-
 - 🏆 **2nd Place** – 2025 Iowa Collegiate Mathematics Competition (99/100 score)  
+- 📜 [**Machine Learning and Data Science A–Z** (Python/R, Udemy)](https://www.udemy.com/certificate/UC-6f588248-ee35-4c03-b487-ab3e9772fa32/)  
+- 📜 [**UR2PhD Undergraduate Pre-Research Experience Course Credential**](https://verified.sertifier.com/en/verify/64565395045067/)
 
-- 📜 [**Machine Learning A–Z** (Python/R, Udemy)](#)  
-- 📜 [**Stochastic Processes & Advanced Quantitative Modeling** (Coursera)](#)  
-- 📜 [**UR2PhD Undergraduate Pre-Research Experience Course Credential**](#)  
+<h3 align="center">🚧 Duc is still a work in progress... 🚧<h3>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/status-in_progress-yellow?style=for-the-badge&logo=github" alt="Work in Progress Badge">
+</h3>
 
 
-*(Replace `#` with your actual certificate URLs)*  
+
 
