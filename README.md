@@ -9,7 +9,14 @@
 - 💬 Ask me about **data pipelines, LLM finetuning, or backtesting strategies**  
 - 📫 Reach me at: **duongduc@grinnell.edu** | [LinkedIn](https://www.linkedin.com/in/duchduong)  
 - 📝 Portfolio & Projects: [GitHub](https://github.com/duongduc388222)  
-- ⚡ Fun fact: I love **variants of Sudoku, badminton, and soccer** — always looking for patterns both in puzzles and markets.  
+- ⚡ Fun fact: I love **variants of Sudoku, badminton, and soccer** — always looking for patterns both in puzzles and markets.
+
+---
+
+### 🎯 Hobbies & Interests  
+- 🧩 Solving **variants of Sudoku** and logic games 
+- ⚽  Born to play **soccer** but peaked at 🏸 **badminton**
+- 📖 Reading **AI/ML research papers**, **quant finance literature**, and **manga**
 
 ---
 
@@ -32,7 +39,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>  
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"/>  
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"/>  
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"/> 
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"/>  
 <img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/scala/scala.png"/>  
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"/>  
@@ -58,8 +66,6 @@
 <img align="left" alt="Hugging Face" width="26px" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4"/>  
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>  
 <img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"/>  
-<img align="left" alt="SciPy" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/scipy/scipy.png"/>  
-<img align="left" alt="Tableau" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png"/>  
 <img align="left" alt="Airflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>  
 <img align="left" alt="BigQuery" width="26px" src="https://avatars.githubusercontent.com/u/10639145?s=200&v=4"/>  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"/>  
@@ -70,19 +76,46 @@
 
 ---
 
-### 🚀 Featured Projects  
-- **[Predicting Tonal Languages](https://github.com/duongduc388222/predict-tonal-languages-machine-learning)**  
-  Built reproducible ML pipelines with **7 algorithms**; achieved 65%+ cross-validation accuracy.  
+## 🚀 Featured Projects  
 
-- **[Quantitative Research Backtesting Simulator](#)**  
-  Designed frameworks to test **50+ strategies**, improving prediction accuracy by 20%.  
+### 🎵 Predicting Tonal Languages  
+[🔗 GitHub Repository](https://github.com/duongduc388222/predict-tonal-languages-machine-learning) | Aug 2024 – May 2025  
 
-- **[Geospatial Address Mapping](#)**  
-  Engineered **10,000+ ward-level database entries** with <100m accuracy for risk modeling.  
+A research project exploring whether machine learning models can distinguish tonal vs. non-tonal languages from multilingual audio samples.  
+
+- Collected and processed **125 multilingual audio clips** from 18 countries.  
+- Designed **spectral and pitch-based features** that reduced raw noise by **30%** and improved dataset balance.  
+- Benchmarked **7 ML models** (logistic regression, SVM, random forest, neural nets, etc.) with cross-validation, achieving **65% accuracy** (20% over baseline).  
+- Built reproducible pipelines in **scikit-learn** and **PyTorch** for comparative metrics (precision, recall, F1).  
+- Proposed scalable data collection strategies for future interdisciplinary research in linguistics + machine learning.  
+
+---
+
+### 🗺️ Spatial and Demographic Effects on Theft Distribution in Los Angeles. 
+[CAUSE Website](https://www.causeweb.org/usproc/usclap/2025/spring/winners) 
+
+Analyzed theft patterns across Los Angeles using the **2020 LAPD dataset** to understand how spatial and demographic factors affect theft distribution.  
+
+- Applied **nested logistic regression models** with predictors such as population size, density, victim age, sex, and race.  
+- Found **population density** to be the strongest negative predictor of theft, while demographic analysis showed older victims and women were slightly more likely to be targeted.  
+- Highlighted racial differences in exposure to theft vs. violent crimes.  
+- Work was recognized nationally, earning **1st Prize** in the USPROC Introductory Statistics Class Project competition.  
+
+
 
 ---
 
 ### 📜 Certifications & Awards  
+- 🏆 **1st Prize** – USPROC Introductory Statistics Class Project Competition (June 2025)  
+  *Project: Spatial And Demographic Effects On Theft Distribution Across Los Angeles*  
+  Sponsored by **American Statistical Association (ASA)** & **CAUSE**.
+
 - 🏆 **2nd Place** – 2025 Iowa Collegiate Mathematics Competition (99/100 score)  
-- 📜 **Machine Learning A–Z** (Python/R, Udemy)  
-- 📜 **Stochastic Processes & Advanced Quantitative Modeling** (Coursera)  
+
+- 📜 [**Machine Learning A–Z** (Python/R, Udemy)](#)  
+- 📜 [**Stochastic Processes & Advanced Quantitative Modeling** (Coursera)](#)  
+- 📜 [**UR2PhD Undergraduate Pre-Research Experience Course Credential**](#)  
+
+
+*(Replace `#` with your actual certificate URLs)*  
+
