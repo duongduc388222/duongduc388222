@@ -3,12 +3,11 @@
 - 🎓 Sophomore at **Grinnell College**, pursuing B.A. in **Computer Science & Mathematics** (Concentration: Statistics)  
 - 📊 Striving for jobs in **quantitative research, data engineering, and AI/ML**  
 - 💻 I was a Data Engineer and AI Engineer at **Gtel Data Research Group** in Summer 2025, and a NLP Intern at **Data Glacier** in Fall 2025.  
-- 🔭 Exploring **systematic trading, scalable data pipelines, and large-scale ML research**  
-- 🌱 Learning **diffusion models, reinforcement learning, and MLOps**  
-- 👯 Open to collaborating on **quant research, backtesting frameworks, and AI-driven tools**  
-- 💬 Ask me about **data pipelines, LLM finetuning, or backtesting strategies**  
+- 🌱 Learning **diffusion models, reinforcement learning, and LLM finetuning**  
+- 👯 Open to collaborating on **quant research, machine learning/computer vision projects, and solving sudoku problems**  
+- 💬 Ask me about **machine learning, deep learning architectures, or just life in general**  
 - 📝 Portfolio & Blog: https://ducduong-portfolio.vercel.app/
-- ⚡ Fun fact: I love **variants Sudoku, badminton, and soccer**
+- ⚡ Fun fact: I love dabbling in **variants Sudoku, badminton, and soccer**
 
 ### 📫 Reach me at:
 - [LinkedIn](https://www.linkedin.com/in/duchduong)  
