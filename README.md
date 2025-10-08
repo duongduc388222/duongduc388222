@@ -1,5 +1,6 @@
-# Hey, I’m Duc Duong - currently under training as a Quant Dev at CF Hub - qAnts Research Team👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&pause=1000&color=1EC0CD&background=D3D3D3&center=true&multiline=true&width=435&lines=Hi%2C+I'm+Duc+;I+will+be+an+AI+Engineer+one+day.+Trust)](https://git.io/typing-svg)
 
+### 😎 About me:
 - 🎓 Sophomore at **Grinnell College**, pursuing B.A. in **Computer Science & Mathematics** (Concentration: Statistics)  
 - 📊 Striving for jobs in **quantitative research, data engineering, and AI/ML**  
 - 💻 I was a Data Engineer and AI Engineer at **Gtel Data Research Group** in Summer 2025, and a NLP Intern at **Data Glacier** in Fall 2025.  
