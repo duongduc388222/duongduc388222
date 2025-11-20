@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=1B03A3&weight=900&size=50&pause=1000&color=2323FF&background=FFFFFF00&multiline=true&width=500&height=150&lines=Hi%2C+I'm+Duc+;I+will+be+an+AI+Engineer+one+day.+Trust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&multiline=true&width=1000&height=201&lines=Hi%2C+I'm+Duc!;I'll+be+an+AI+Engineer+one+day.;Trust!)](https://git.io/typing-svg)
 
 ### 😎 About me:
 - 🎓 Sophomore at **Grinnell College**, pursuing B.A. in **Computer Science & Mathematics** (Concentration: Statistics)  
