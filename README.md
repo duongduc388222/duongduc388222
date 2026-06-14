@@ -65,17 +65,29 @@ Pursuing the **GARP Financial Risk Manager (FRM)** designation alongside coursew
 
 ## Tech
 
-**Languages** · Python · C++ · Java · R · SQL · Bash · LaTeX
-**ML / NLP** · PyTorch · TensorFlow · Hugging Face · Transformers · T5 · LoRA/QLoRA · Reinforcement Learning · ONNX · vector databases
-**Systems** · GCP · Docker · Linux · CI/CD · low-latency inference · Git
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,r,bash,latex" height="36" />
+
+**ML / NLP**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="36" />
+
+Also: Hugging Face Transformers · T5 · LoRA/QLoRA · reinforcement learning · ONNX · vector databases
+
+**Systems**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,linux,git" height="36" />
+
+Also: SQL · CI/CD · low-latency inference
 
 ---
 
 ## Recognition
 
-- **1st Prize** — USPROC Statistics Research Competition (ASA & CAUSE, 2025)
-- **2nd Place** — Iowa Collegiate Mathematics Competition (99/100, 2025)
-- **Outstanding Award** — SCUDEM Math Modeling 2025: *AI Ouroboros* (SIMIODE)
+- **First Prize** — USPROC Statistics Research Competition · ASA & CAUSE, June 2025
+- **Second Place** — Iowa Collegiate Mathematics Competition (ICMC) · 99/100, Feb 2025
+- **Outstanding Award** — SCUDEM Mathematical Modeling: *AI Ouroboros* · SIMIODE, 2025
 
 ---
 
