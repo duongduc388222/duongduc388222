@@ -1,12 +1,41 @@
-# Duc Duong
+<div align="center">
 
-**AI Researcher · CS & Mathematics @ Grinnell College**
+<a href="https://ducduong-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Duc+Duong;AI+%2F+ML+Researcher;Efficient+LLM+Inference+%26+KV+Cache+Management;Shooting+Toward+Agentic+Systems+%26+RL" alt="Typing SVG" />
+</a>
 
-AI/ML researcher working on efficient LLM inference, inference-time reasoning, and agentic systems. I care about the math underneath the models — sampling, optimization, and the systems that make inference fast — and currently research KV-cache-efficient inference and closed-loop agentic pipelines across labs at Rice and Stevens. Open to research collaborations in efficient ML, NLP, and quantitative methods.
+### AI Researcher · CS & Mathematics @ Grinnell College
 
-**Focus for 2026:** efficient LLM inference, inference-time reasoning, and applied quantitative research.
+<a href="https://ducduong-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/duchduong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:duongduc@grinnell.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://scholar.google.com/citations?user=q3b7yDwAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 
-📍 [Portfolio](https://ducduong-portfolio.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/duchduong) · ✉️ duongduc@grinnell.edu · 📨 duonghongduc3003@gmail.com
+</div>
+
+---
+
+## About Me
+
+I'm an AI/ML researcher focused on efficient large language model inference: making models run faster, longer, and cheaper without giving up accuracy. I'm a Computer Science and Mathematics student at Grinnell College, researching across labs at Rice and Stevens.
+
+Most of my work centers on KV cache management and inference-time reasoning, where sampling, optimization, and systems meet. Increasingly, I'm carrying that efficiency work into agentic systems and reinforcement learning, where inference cost compounds and smarter memory and compute decisions matter most. I treat the whole pipeline as the thing to optimize, not a single model call. Open to research collaborations in efficient ML, NLP, inference-time reasoning, and RL.
+
+**Focus for 2026:** efficient LLM inference, KV cache management, and extending both into agentic and RL systems.
+
+[Portfolio](https://ducduong-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/duchduong) · duongduc@grinnell.edu · duonghongduc3003@gmail.com
+
+---
+
+## Publications
+
+**Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets**
+Duc Duong\*, Hoang Anh Duy Le\*, Jianwen Xie, Anshumali Shrivastava, Zhaozhuo Xu · arXiv:2606.23961, 2026
+*\*Equal contribution.*
+
+A training-free KV-cache eviction method that replaces the deterministic top-K every prior method relies on with weighted reservoir sampling over an iterative walk that surfaces bridge tokens. At 80% cache eviction it matches dense attention within ~1 point on LongBench while shrinking per-sequence cache memory up to 10× versus dense FlashAttention-2.
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.23961-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.23961)
 
 ---
 
@@ -91,7 +120,25 @@ Also: SQL · CI/CD · low-latency inference
 
 ---
 
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongduc388222&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongduc388222&layout=compact&hide_border=true&langs_count=8" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=duongduc388222&show_icons=true&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongduc388222&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duongduc388222&hide_border=true" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duongduc388222&bg_color=ffffff&color=000000&line=3b82f6&point=2563eb&area=true&hide_border=true" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=duongduc388222&theme=flat&no-frame=true&margin-w=15" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Beyond the work:** variant Sudoku (a devoted [Cracking the Cryptic](https://www.youtube.com/c/CrackingTheCryptic) viewer), badminton, and soccer. Always up for a good puzzle.
+
 </div>
