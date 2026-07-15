@@ -44,8 +44,7 @@ A training-free KV-cache eviction method that replaces the deterministic top-K e
 **Grinnell College** — B.A. Computer Science & Mathematics · *Aug 2024 – May 2028*
 
 - GPA 4.0 · Dean's List
-- Coursework: Machine Learning, Artificial Intelligence, Linear Algebra, Probability & Statistics, Data Structures & Algorithms, Quantitative Modeling
-- Certifications: Oracle Certified Data Science Professional · GARP FRM Candidate
+- Coursework: Machine Learning, Artificial Intelligence, Reinforcement Learning, Linear Algebra, Probability & Statistics, Data Structures & Algorithms.
 
 ---
 
@@ -86,12 +85,6 @@ Engineered spectral and pitch-based features over 125 multilingual clips from 18
 
 ---
 
-## Quant
-
-Pursuing the **GARP Financial Risk Manager (FRM)** designation alongside coursework in probability, statistics, and quantitative modeling. I'm interested in systematic and quantitative research — applying the same sampling, optimization, and inference work I do in ML to market data, risk, and signal. Currently building toward research-grade strategies and working through quant finance literature.
-
----
-
 ## Tech
 
 **Languages**
@@ -114,18 +107,17 @@ Also: SQL · CI/CD · low-latency inference
 
 ## Recognition
 
-- **First Prize** — USPROC Statistics Research Competition · ASA & CAUSE, June 2025
-- **Second Place** — Iowa Collegiate Mathematics Competition (ICMC) · 99/100, Feb 2025
+- **Iowa Collegiate Mathematics Competition (ICMC)**
+  - **First Place** · 96/100, 2026
+  - **Second Place** · 99/100, 2025
 - **Outstanding Award** — SCUDEM Mathematical Modeling: *AI Ouroboros* · SIMIODE, 2025
+- **First Prize** — USPROC Statistics Research Competition · ASA & CAUSE, 2025
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=duongduc388222&show_icons=true&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongduc388222&layout=compact&hide_border=true&langs_count=8" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongduc388222&hide_border=true" height="165" />
 
